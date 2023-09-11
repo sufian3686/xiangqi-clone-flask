@@ -16,4 +16,5 @@ PyJWT==2.8.0
 python-dotenv==1.0.0
 SQLAlchemy==2.0.19
 Werkzeug==2.3.6
+gunicorn==20.0.4
 
